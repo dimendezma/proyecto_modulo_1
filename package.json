@@ -1,0 +1,14 @@
+{
+  "name": "proyecto_modulo_1",
+  "version": "1.0.0",
+  "description": "Proyecto para modulo uno del curso de Bootstarp",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Bootstrap"
+  ],
+  "author": "Diego Méndez",
+  "license": "ISC"
+}
